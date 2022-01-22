@@ -4,7 +4,7 @@ const prisonerIsAwake = true;
 const petDogIsPresent = false;
 
 function canExecuteFastAttack(knightIsAwake) {
-    return !knightIsAwake;
+    return !knightIsAwake
 };
 
 function canSpy(knightIsAwake, archerIsAwake, prisonerIsAwake) {
