@@ -11,4 +11,4 @@ This repository is a collection of the solutions I have submitted on [Exercism](
 |:-------------|---|---|---|
 | Lucian's Luscious Lasagna | Basics | [Code](https://github.com/aramatsolrac/exercism-javascript/blob/main/solutions/luciansLusciousLasagna.js)|[Exercise](https://exercism.org/tracks/javascript/exercises/lasagna) |
 | Annalyn's Infiltration | Booleans | [Code](https://github.com/aramatsolrac/exercism-javascript/blob/main/solutions/annalynsInfiltration.js)|[Exercise](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration) |
-| Freelancer Rate | Numbers && Arithmetic Operators | [Code](https://github.com/aramatsolrac/exercism-javascript/blob/main/solutions/freelancerRate.js)|[Exercise](https://exercism.org/tracks/javascript/exercises/freelancer-rates) |
+| Freelancer Rate | Numbers && Arithmetic Operators | [Code](https://github.com/aramatsolrac/exercism-javascript/blob/main/solutions/freelancerRates.js)|[Exercise](https://exercism.org/tracks/javascript/exercises/freelancer-rates) |
